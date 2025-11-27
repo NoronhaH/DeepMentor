@@ -1,0 +1,61 @@
+# ====== Core/Infraestrutura (CCDS) ======
+# Gerenciamento de ambiente, logging e barras de progresso
+python-dotenv
+loguru
+tqdm
+
+# ====== Stack de Data Science (CCDS Padrão) ======
+# Análise e manipulação de dados
+pandas
+numpy
+
+# Modelagem (exemplo)
+scikit-learn
+
+# Visualização (exemplo)
+matplotlib
+seaborn
+
+# Notebooks
+jupyterlab
+notebook
+
+# ====== Stack de IA (Definido pelo Usuário) ======
+# Framework de Agentes
+crewai
+crewai[tools]
+
+# LLM/API
+litellm
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-openai
+
+# ====== Ferramentas de Dados (Definido pelo Usuário) ======
+# Processamento de PDF e Imagem
+pdf2image
+pillow
+PyPDF2
+
+# ====== Ferramentas de Desenvolvimento e UI ======
+# UI (ex: Demos)
+gradio
+
+# Documentação
+mkdocs
+
+# Linting e Formatação
+ruff
+
+# CLI (Linha de Comando)
+typer
+
+# Visualização de Grafos (opcional)
+graphviz
+
+# ====== Instalação do Projeto Local ======
+# Instala o pacote 'src' local em modo editável
+# !! DEVE SER A ÚLTIMA LINHA !!
+-e .
