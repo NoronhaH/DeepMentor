@@ -2,6 +2,7 @@
 
 > **Disciplina:** IA368HH - FEEC-UNICAMP  
 > **Responsável pelo projeto:** Hiuri Noronha
+> **Supervisão:** Prof. Roberto Lotufo
 
 ## Visão Geral
 
